@@ -10,12 +10,12 @@ relative_permalinks: true
 title:            Rapousada
 tagline:          'Chácara em Cavalcante'
 description:      'Chácara para temporada em Cavalcante (Chapada dos Veadeiros - Goiás) com infraestrutura completa.'
-url:              http://rapousada.com.br
+url:              https://ib.is-a.dev
 baseurl:          /
 
 author:
   name:           'Lenilson Alves'
-  url:            http://rapousada.com.br
+  url:            https://ib.is-a.dev
 
 paginate:         5
 
